@@ -23,7 +23,7 @@ Windows用試作版はライブラリの切り分けをしておりませんの�
 ```
 
 ## CALL_example.py
-`$ example(arg1, arg2, arg3)`
+`$ python example(arg1, arg2, arg3)`
 ### 引数
 - arg1: str
   - DEBUG
