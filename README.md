@@ -13,7 +13,7 @@ pip install -U wheel
 pip install -r req.txt
 ```
 `venv`を使用される場合は適切にPath設定をお願いします。
-Windows用試作版はライブラリの切り分けをしておりませんのでご了承願います。
+
 ## フォルダ構成
 ```bash
 ├ testlib/
